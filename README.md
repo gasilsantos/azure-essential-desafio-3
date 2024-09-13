@@ -71,6 +71,7 @@ Este guia fornece instruções passo a passo para a criação de uma instância 
   - No painel esquerdo, clique em **Configurações > Regras de firewall e redes virtuais**.
   - Adicione o seu **Endereço IP público** ou **Faixa de IPs** que terão acesso ao servidor e ao banco de dados.
   - Clique em **Salvar**.
+![DALL·E-2024-09-12-21 00 34-A-modern-and-sleek-illustration-representing-databases](https://github.com/user-attachments/assets/b5fb55ff-44b9-4689-85e0-617a6cafa764)
 
 ### 7. Conectando-se ao Banco de Dados
 
